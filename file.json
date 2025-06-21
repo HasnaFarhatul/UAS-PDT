@@ -1,0 +1,17 @@
+// reviews
+{
+    "book_id": 1,
+    "student_id": 1,
+    "rating": 5,
+    "comment": "Buku sangat membantu!",
+    "timestamp": "2025-06-20T12:00:00"
+  }
+  
+  // metadata
+  {
+    "book_id": 1,
+    "categories": ["Pemrograman", "Dasar"],
+    "tags": ["Python", "Pemula"],
+    "synopsis": "Buku pengantar pemrograman Python."
+  }
+  
